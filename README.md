@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm M. Haroon Ali</h1>
 <h3 align="center">MERN stack enthusiast and NUST software engineering student.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haroon8391&label=Profile%20views&color=0e75b6&style=flat" alt="haroon8391" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haroon8391" alt="haroon8391" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/haroona59549244" target="blank"><img src="https://img.shields.io/twitter/follow/haroona59549244?logo=twitter&style=for-the-badge" alt="haroona59549244" /></a> </p>
-
 - 🔭 I’m currently working on [Instagram Clone](https://github.com/haroon8391/Instagram_Clone)
 
 - 🌱 I’m currently learning **NEXT.JS**
