@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm M. Haroon Ali</h1>
 <h3 align="center">MERN stack enthusiast and NUST software engineering student.</h3>
 
-- 🔭 I’m currently working on [Jobs Portal Website](https://github.com/haroon8391/mern collab)
+- 🔭 I’m currently working on [Jobs Portal Website](https://github.com/haroon8391/mern-collab)
 
 - 🌱 I’m currently learning **NEXT.JS**
 
