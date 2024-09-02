@@ -3,8 +3,6 @@
 
 - 🔭 Currently exploring on AWS
 
-- 🌱 I’m currently learning **NEXT.JS**
-
 - 👨‍💻 All of my projects are available at [https://github.com/haroon8391](https://github.com/haroon8391)
 
 - 💬 Ask me about **react, nextjs, node and express js**
