@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm M. Haroon Ali</h1>
 <h3 align="center">MERN stack enthusiast and NUST software engineering student.</h3>
 
-- 🔭 Currently exploring on AWS
+- 🔭 Currently exploring AWS
 
 - 👨‍💻 All of my projects are available at [https://github.com/haroon8391](https://github.com/haroon8391)
 
