@@ -51,7 +51,7 @@ AI/Tools:   OpenAI, Anthropic, n8n, Zapier, Playwright
 ## 📫 Connect With Me
 
 - 📧 Email: [haroon8391@gmail.com](mailto:haroon8391@gmail.com)
-- 💼 LinkedIn: [muhammad-haroon-ali-8aab59228](https://linkedin.com/in/muhammad-haroon-ali-8aab59228)
+- 💼 LinkedIn: [mharoonali/](https://www.linkedin.com/in/mharoonali/)
 - 🐙 GitHub: [@haroon8391](https://github.com/haroon8391)
 - 📱 Phone: +92 301 9805140
 
