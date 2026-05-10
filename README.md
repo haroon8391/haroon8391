@@ -1,73 +1,66 @@
-# Muhammad Haroon Ali
+<h1 align="center">Hi 👋, I'm Muhammad Haroon Ali</h1>
+<h3 align="center">Full-Stack Software Engineer | Next.js | NestJS | AWS</h3>
 
-**Full-Stack Software Engineer** | Islamabad, Pakistan  
-📧 [haroon8391@gmail.com](mailto:haroon8391@gmail.com) | 📱 +92 301 9805140 | [LinkedIn](https://linkedin.com/in/muhammad-haroon-ali-8aab59228) 
+<p align="center">
+  Building scalable applications with 2+ years of experience in production environments
+</p>
 
 ---
 
-## 👋 About Me
+## 🚀 About Me
 
-Full-Stack Software Engineer with **2+ years** of experience building scalable applications using **Next.js, NestJS, and the MERN stack**. Passionate about crafting efficient APIs, optimizing performance, and delivering production-grade solutions. Currently working at **Centrox AI** on AI-powered applications serving 10k+ users.
+- 🔭 Currently building AI-powered applications at **Centrox AI**
+- 💻 Full-Stack Developer specializing in **Next.js, NestJS, and MERN stack**
+- 🎯 Passionate about performance optimization (API response: 1.2s → 280ms)
+- 🤖 Experienced with **AI integrations** (OpenAI, Anthropic, Claude)
+- ☁️ AWS & DevOps enthusiast (EC2, S3, Lambda, CI/CD)
+
+---
+
+## 💡 Key Achievements
+
+- 🚀 Deployed apps serving **10k+ users** with real-time WebRTC
+- ⚡ **90% improvement** in processing time & deployment reliability
+- 📊 **95% accuracy** in automated invoice processing pipelines
+- 🔒 Implemented microservices with RBAC, Redis caching, and MongoDB optimization
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend:** React.js, Next.js, TypeScript, Tailwind CSS, Redux, TanStack Query  
-**Backend:** Node.js, NestJS, Express.js, REST APIs, Microservices  
-**DevOps & Cloud:** Docker, GitHub Actions, AWS (EC2, S3, Lambda, RDS), CI/CD Pipelines  
-**Databases:** MongoDB, PostgreSQL, Firebase, Redis  
-**AI & Automation:** Claude API, LLM Integrations (OpenAI, Anthropic), n8n, Zapier, Playwright  
-
----
-
-## 💼 Work Experience
-
-### Full Stack Developer @ **Centrox AI** 
-*Aug 2025 - Present | Gulberg Greens, Islamabad*
-- Built and deployed AI Listener and Rankpage production applications serving **10k+ users** with real-time WebRTC and Stripe payments
-- Improved API response time from **1.2s → 280ms** using Redis caching
-- Reduced deployment failures by **90%** with GitHub Actions CI/CD automation
-- Created clinic management system using n8n webhooks and ClickUp integration
-
-### Full-Stack Software Engineer @ **BeHope**
-*Sep 2024 - Aug 2025 | I-8, Islamabad*
-- Designed event-driven order processing system with webhooks, reducing processing time by **90%**
-- Built email-based invoice ingestion pipeline using Google Pub/Sub and Adobe APIs, achieving **95% accuracy**
-- Integrated QuickBooks APIs for automated expense tracking with React dashboard
+```
+Frontend:   React.js, Next.js, TypeScript, Tailwind CSS, Redux
+Backend:    Node.js, NestJS, Express.js, REST APIs, Microservices
+DevOps:     Docker, GitHub Actions, AWS (EC2, S3, Lambda, RDS)
+Databases:  MongoDB, PostgreSQL, Firebase, Redis
+AI/Tools:   OpenAI, Anthropic, n8n, Zapier, Playwright
+```
 
 ---
 
 ## 🎯 Featured Projects
 
-### **AI Listener - Mental Health App**
-NestJS backend × Next.js frontend with OpenAI integration  
-- Real-time AI conversations via WebRTC and WebSocket streaming
-- RBAC, Firebase Auth, Redis caching, MongoDB optimization
-- RevenueCat & Stripe billing integration
+**🧠 AI Listener** - Mental health platform with real-time AI conversations  
+*NestJS • Next.js • OpenAI • Firebase Auth • Stripe*
 
-### **Rankpage - Social Media Ranking Platform**
-TanStack Start, Node.js, Express.js, MongoDB  
-- Rank-based posts, interactive polls, and predictions
-- Gamified expert system with Stripe billing
-- OAuth with Keycloak
+**📊 Rankpage** - Social media ranking platform with gamified system  
+*Node.js • Express.js • MongoDB • Keycloak OAuth • Stripe*
 
 ---
 
-## 🎓 Education
+## 📫 Connect With Me
 
-**Bachelor's in Software Engineering**  
-National University of Sciences and Technology (NUST), Pakistan
-
----
-
-## 📊 Quick Stats
-
-- 🔥 2+ years building production applications
-- 🚀 10k+ users across deployed platforms
-- ⚡ 280ms average API response times
-- 📈 90% reduction in processing times & deployment failures
+- 📧 Email: [haroon8391@gmail.com](mailto:haroon8391@gmail.com)
+- 💼 LinkedIn: [muhammad-haroon-ali-8aab59228](https://linkedin.com/in/muhammad-haroon-ali-8aab59228)
+- 🐙 GitHub: [@haroon8391](https://github.com/haroon8391)
+- 📱 Phone: +92 301 9805140
 
 ---
 
-*Let's build something amazing together! Feel free to explore my repositories or reach out.*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=haroon8391&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haroon8391&theme=dark" alt="GitHub Streak" />
+</p>
