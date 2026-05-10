@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Haroon Ali</h1>
+<h1 align="center">Hi, I'm Muhammad Haroon Ali</h1>
 <h3 align="center">Full-Stack Software Engineer | Next.js | NestJS | AWS</h3>
 
 <p align="center">
@@ -7,26 +7,26 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🔭 Currently building AI-powered applications at **Centrox AI**
-- 💻 Full-Stack Developer specializing in **Next.js, NestJS, and MERN stack**
-- 🎯 Passionate about performance optimization (API response: 1.2s → 280ms)
-- 🤖 Experienced with **AI integrations** (OpenAI, Anthropic, Claude)
-- ☁️ AWS & DevOps enthusiast (EC2, S3, Lambda, CI/CD)
-
----
-
-## 💡 Key Achievements
-
-- 🚀 Deployed apps serving **10k+ users** with real-time WebRTC
-- ⚡ **90% improvement** in processing time & deployment reliability
-- 📊 **95% accuracy** in automated invoice processing pipelines
-- 🔒 Implemented microservices with RBAC, Redis caching, and MongoDB optimization
+- Currently building AI-powered applications at Centrox AI
+- Full-Stack Developer specializing in Next.js, NestJS, and MERN stack
+- Passionate about performance optimization (API response: 1.2s to 280ms)
+- Experienced with AI integrations (OpenAI, Anthropic, Claude)
+- AWS and DevOps enthusiast (EC2, S3, Lambda, CI/CD)
 
 ---
 
-## 🛠️ Tech Stack
+## Key Achievements
+
+- Deployed apps serving 10k+ users with real-time WebRTC
+- 90% improvement in processing time and deployment reliability
+- 95% accuracy in automated invoice processing pipelines
+- Implemented microservices with RBAC, Redis caching, and MongoDB optimization
+
+---
+
+## Tech Stack
 
 ```
 Frontend:   React.js, Next.js, TypeScript, Tailwind CSS, Redux
@@ -38,29 +38,32 @@ AI/Tools:   OpenAI, Anthropic, n8n, Zapier, Playwright
 
 ---
 
-## 🎯 Featured Projects
+## Featured Projects
 
-**🧠 AI Listener** - Mental health platform with real-time AI conversations  
-*NestJS • Next.js • OpenAI • Firebase Auth • Stripe*
+AI Listener - Mental health platform with real-time AI conversations
+NestJS | Next.js | OpenAI | Firebase Auth | Stripe
 
-**📊 Rankpage** - Social media ranking platform with gamified system  
-*Node.js • Express.js • MongoDB • Keycloak OAuth • Stripe*
+Rankpage - Social media ranking platform with gamified system
+Node.js | Express.js | MongoDB | Keycloak OAuth | Stripe
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
-- 📧 Email: [haroon8391@gmail.com](mailto:haroon8391@gmail.com)
-- 💼 LinkedIn: [mharoonali/](https://www.linkedin.com/in/mharoonali/)
-- 🐙 GitHub: [@haroon8391](https://github.com/haroon8391)
-- 📱 Phone: +92 301 9805140
+Email: haroon8391@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/mharoonali/
+
+GitHub: https://github.com/haroon8391
+
+Phone: +92 301 9805140
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haroon8391&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=haroon8391&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haroon8391&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haroon8391" alt="GitHub Streak" />
 </p>
