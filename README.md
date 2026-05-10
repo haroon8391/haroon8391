@@ -1,7 +1,7 @@
 # Muhammad Haroon Ali
 
 **Full-Stack Software Engineer** | Islamabad, Pakistan  
-📧 [haroon8391@gmail.com](mailto:haroon8391@gmail.com) | 📱 +92 301 9805140 | [LinkedIn](https://linkedin.com/in/muhammad-haroon-ali-8aab59228) | [GitHub](https://github.com/haroon8391)
+📧 [haroon8391@gmail.com](mailto:haroon8391@gmail.com) | 📱 +92 301 9805140 | [LinkedIn](https://linkedin.com/in/muhammad-haroon-ali-8aab59228) 
 
 ---
 
