@@ -1,31 +1,73 @@
-<h1 align="center">Hi 👋, I'm M. Haroon Ali</h1>
-<h3 align="center">MERN stack enthusiast and NUST software engineering student.</h3>
+# Muhammad Haroon Ali
 
-- 🔭 Currently exploring AWS
+**Full-Stack Software Engineer** | Islamabad, Pakistan  
+📧 [haroon8391@gmail.com](mailto:haroon8391@gmail.com) | 📱 +92 301 9805140 | [LinkedIn](https://linkedin.com/in/muhammad-haroon-ali-8aab59228) | [GitHub](https://github.com/haroon8391)
 
-- 👨‍💻 All of my projects are available at [https://github.com/haroon8391](https://github.com/haroon8391)
+---
 
-- 💬 Ask me about **react, nextjs, node and express js**
+## 👋 About Me
 
-- 📫 How to reach me **haroon8391@gmail.com**
+Full-Stack Software Engineer with **2+ years** of experience building scalable applications using **Next.js, NestJS, and the MERN stack**. Passionate about crafting efficient APIs, optimizing performance, and delivering production-grade solutions. Currently working at **Centrox AI** on AI-powered applications serving 10k+ users.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wF6bwH-zxhW2_SQra9N9CzaSI3DeYnn0/view?usp=sharing)
+---
 
-- ⚡ Fun fact **My Code Has More Loops Than a Roller Coaster!**
+## 🛠️ Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/haroona59549244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="haroona59549244" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammad-haroon-ali-8aab59228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-haroon-ali-8aab59228" height="30" width="40" /></a>
-<a href="https://instagram.com/m.haroon_ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.haroon_ali" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/haroonali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="haroonali" height="30" width="40" /></a>
-</p>
+**Frontend:** React.js, Next.js, TypeScript, Tailwind CSS, Redux, TanStack Query  
+**Backend:** Node.js, NestJS, Express.js, REST APIs, Microservices  
+**DevOps & Cloud:** Docker, GitHub Actions, AWS (EC2, S3, Lambda, RDS), CI/CD Pipelines  
+**Databases:** MongoDB, PostgreSQL, Firebase, Redis  
+**AI & Automation:** Claude API, LLM Integrations (OpenAI, Anthropic), n8n, Zapier, Playwright  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haroon8391&show_icons=true&locale=en&layout=compact" alt="haroon8391" /></p>
+## 💼 Work Experience
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haroon8391&show_icons=true&locale=en" alt="haroon8391" /></p>
+### Full Stack Developer @ **Centrox AI** 
+*Aug 2025 - Present | Gulberg Greens, Islamabad*
+- Built and deployed AI Listener and Rankpage production applications serving **10k+ users** with real-time WebRTC and Stripe payments
+- Improved API response time from **1.2s → 280ms** using Redis caching
+- Reduced deployment failures by **90%** with GitHub Actions CI/CD automation
+- Created clinic management system using n8n webhooks and ClickUp integration
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haroon8391&" alt="haroon8391" /></p>
+### Full-Stack Software Engineer @ **BeHope**
+*Sep 2024 - Aug 2025 | I-8, Islamabad*
+- Designed event-driven order processing system with webhooks, reducing processing time by **90%**
+- Built email-based invoice ingestion pipeline using Google Pub/Sub and Adobe APIs, achieving **95% accuracy**
+- Integrated QuickBooks APIs for automated expense tracking with React dashboard
+
+---
+
+## 🎯 Featured Projects
+
+### **AI Listener - Mental Health App**
+NestJS backend × Next.js frontend with OpenAI integration  
+- Real-time AI conversations via WebRTC and WebSocket streaming
+- RBAC, Firebase Auth, Redis caching, MongoDB optimization
+- RevenueCat & Stripe billing integration
+
+### **Rankpage - Social Media Ranking Platform**
+TanStack Start, Node.js, Express.js, MongoDB  
+- Rank-based posts, interactive polls, and predictions
+- Gamified expert system with Stripe billing
+- OAuth with Keycloak
+
+---
+
+## 🎓 Education
+
+**Bachelor's in Software Engineering**  
+National University of Sciences and Technology (NUST), Pakistan
+
+---
+
+## 📊 Quick Stats
+
+- 🔥 2+ years building production applications
+- 🚀 10k+ users across deployed platforms
+- ⚡ 280ms average API response times
+- 📈 90% reduction in processing times & deployment failures
+
+---
+
+*Let's build something amazing together! Feel free to explore my repositories or reach out.*
